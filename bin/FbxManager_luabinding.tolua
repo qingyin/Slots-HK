@@ -1,0 +1,10 @@
+
+class CCFbxManager
+{
+public:
+    static CCFbxManager* sharedCCFbxManager(void);
+    static void purgeSharedCCFbxManager(void);
+    
+    bool convert(const char* fin, const char* fout);
+
+};
