@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>freespin.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{676,101}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{676,101}}</string>
+                <key>sourceSize</key>
+                <string>{676,101}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>slots_egypt_partical.pvr.ccz</string>
+            <key>size</key>
+            <string>{680,105}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:2d0ad7808ae298e5c87e5677a67c21d8:1/1$</string>
+            <key>textureFileName</key>
+            <string>slots_egypt_partical.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>
